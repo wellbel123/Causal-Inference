@@ -33,4 +33,6 @@ Several methods have been considered:
 - Inverse Probability of Treatment Weighting (IPTW)
 - DoWhy Framework 
 
+## Uplift Modeling 
 
+The basic idea is that we know ATE thanks to our A/B tests, but we also want to know CATE in order to maximize profits and attract only the right customers, rather than bothering people who don't want it.
